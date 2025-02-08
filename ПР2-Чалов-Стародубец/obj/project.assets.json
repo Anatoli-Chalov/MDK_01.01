@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ИС-21\\MDK\\Пр4-Чалов-Стародубец-ИС21\\Пр4-Чалов-Стародубец-ИС21.csproj",
-      "projectName": "Пр4-Чалов-Стародубец-ИС21",
-      "projectPath": "D:\\ИС-21\\MDK\\Пр4-Чалов-Стародубец-ИС21\\Пр4-Чалов-Стародубец-ИС21.csproj",
+      "projectUniqueName": "D:\\ИС-21\\MDK\\ПР2-Чалов-Стародубец\\ПР2-Чалов-Стародубец.csproj",
+      "projectName": "ПР2-Чалов-Стародубец",
+      "projectPath": "D:\\ИС-21\\MDK\\ПР2-Чалов-Стародубец\\ПР2-Чалов-Стародубец.csproj",
       "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-      "outputPath": "D:\\ИС-21\\MDK\\Пр4-Чалов-Стародубец-ИС21\\obj\\",
+      "outputPath": "D:\\ИС-21\\MDK\\ПР2-Чалов-Стародубец\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
