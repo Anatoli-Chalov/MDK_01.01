@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Пр4-Чалов-Стародубец-ИС21", "Пр4-Чалов-Стародубец-ИС21\Пр4-Чалов-Стародубец-ИС21.csproj", "{D43895FE-5216-43AB-A0B2-889FBE5BB5AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR5", "PR5\PR5.csproj", "{18E8B972-E7FC-4CB3-94EF-30B840B6B9D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D43895FE-5216-43AB-A0B2-889FBE5BB5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D43895FE-5216-43AB-A0B2-889FBE5BB5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D43895FE-5216-43AB-A0B2-889FBE5BB5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18E8B972-E7FC-4CB3-94EF-30B840B6B9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18E8B972-E7FC-4CB3-94EF-30B840B6B9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18E8B972-E7FC-4CB3-94EF-30B840B6B9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18E8B972-E7FC-4CB3-94EF-30B840B6B9D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+D:\ИС-21\MDK\PR5\bin\Debug\net7.0\PR5.exe
+D:\ИС-21\MDK\PR5\bin\Debug\net7.0\PR5.deps.json
+D:\ИС-21\MDK\PR5\bin\Debug\net7.0\PR5.runtimeconfig.json
+D:\ИС-21\MDK\PR5\bin\Debug\net7.0\PR5.dll
+D:\ИС-21\MDK\PR5\bin\Debug\net7.0\PR5.pdb
+D:\ИС-21\MDK\PR5\obj\Debug\net7.0\PR5.csproj.AssemblyReference.cache
+D:\ИС-21\MDK\PR5\obj\Debug\net7.0\PR5.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИС-21\MDK\PR5\obj\Debug\net7.0\PR5.AssemblyInfoInputs.cache
+D:\ИС-21\MDK\PR5\obj\Debug\net7.0\PR5.AssemblyInfo.cs
+D:\ИС-21\MDK\PR5\obj\Debug\net7.0\PR5.csproj.CoreCompileInputs.cache
+D:\ИС-21\MDK\PR5\obj\Debug\net7.0\PR5.dll
+D:\ИС-21\MDK\PR5\obj\Debug\net7.0\refint\PR5.dll
+D:\ИС-21\MDK\PR5\obj\Debug\net7.0\PR5.pdb
+D:\ИС-21\MDK\PR5\obj\Debug\net7.0\PR5.genruntimeconfig.cache
+D:\ИС-21\MDK\PR5\obj\Debug\net7.0\ref\PR5.dll
